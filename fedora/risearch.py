@@ -67,7 +67,17 @@ class TuplesSearch(ResourceIndexSearch):
         results = requests.get(f"{self.base_url}&query={sparql_query}").content.decode("utf-8").split("\n")
         return [result.replace('info:fedora/', '') for result in results if ":" in result]
 
+    def get_books(self):
+        sparql_query = self.escape_query(
+            f"PREFIX fedora-model: <info:fedora/fedora-system:def/model#> PREFIX fedora-rels-ext: "
+            f"<info:fedora/fedora-system:def/relations-external#> PREFIX isl-rels-ext: "
+            f"<http://islandora.ca/ontology/relsext#> SELECT $pid FROM <#ri> WHERE {{ $pid "
+            f"fedora-model:hasModel <info:fedora/islandora:bookCModel>. }}"
+        )
+        results = requests.get(f"{self.base_url}&query={sparql_query}").content.decode("utf-8").split("\n")
+        return [result.replace('info:fedora/', '') for result in results if ":" in result]
+
 
 if __name__ == "__main__":
-    x = TuplesSearch(language="sparql").get_large_images("islandora:test")
+    x = TuplesSearch(language="sparql").get_books()
     print(x)
