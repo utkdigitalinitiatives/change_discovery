@@ -56,20 +56,18 @@ class TuplesSearch(ResourceIndexSearch):
             f"&lang={self.language}&format={self.format}"
         )
 
-    def get_large_images(self):
+    def get_large_images(self, collection):
         sparql_query = self.escape_query(
             f"PREFIX fedora-model: <info:fedora/fedora-system:def/model#> PREFIX fedora-rels-ext: "
             f"<info:fedora/fedora-system:def/relations-external#> PREFIX isl-rels-ext: "
             f"<http://islandora.ca/ontology/relsext#> SELECT $pid FROM <#ri> WHERE {{ $pid "
-            f"fedora-model:hasModel <info:fedora/islandora:sp_large_image_cmodel> . }}"
+            f"fedora-model:hasModel <info:fedora/islandora:sp_large_image_cmodel>;"
+            f"fedora-rels-ext:isMemberOfCollection <info:fedora/{collection}> . }}"
         )
-        return (
-            requests.get(f"{self.base_url}&query={sparql_query}")
-            .content.decode("utf-8")
-            .split("\n")
-        )
+        results = requests.get(f"{self.base_url}&query={sparql_query}").content.decode("utf-8").split("\n")
+        return [result.replace('info:fedora/', '') for result in results if ":" in result]
 
 
 if __name__ == "__main__":
-    x = TuplesSearch(language="sparql").get_large_images()
+    x = TuplesSearch(language="sparql").get_large_images("islandora:test")
     print(x)
