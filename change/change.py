@@ -11,7 +11,7 @@ class Collection:
         self.last_page = self.__get_last_page()
 
     def __get_last_page(self):
-        return ceil(self.size/self.items_per_page)
+        return ceil(self.size / self.items_per_page)
 
     def build(self):
         collection = {
@@ -21,15 +21,53 @@ class Collection:
             "totalItems": self.size,
             "first": {
                 "id": f"{self.base}/activity/page-1",
-                "type": "OrderedCollectionPage"
+                "type": "OrderedCollectionPage",
             },
             "last": {
                 "id": f"{self.base}/activity/page-{self.last_page}",
-                "type": "OrderedCollectionPage"
-            }
+                "type": "OrderedCollectionPage",
+            },
         }
 
         return collection
+
+
+class PageOfChanges:
+    def __init__(self, page_number, pids, base_url, is_last_page=False):
+        self.page_number = page_number
+        self.pids = pids
+        self.base_url = base_url
+        self.is_last_page = is_last_page
+
+    def get_activities(self):
+        return [LevelZeroActivity(pid).build() for pid in self.pids]
+
+    def build(self):
+        page_of_changes = {
+            "@context": "http://iiif.io/api/discovery/1/context.json",
+            "id": f"{self.base_url}/activity/{self.page_number}",
+            "type": "OrderedCollectionPage",
+            "partOf": {
+                "id": f"{self.base_url}/activity/all-changes",
+                "type": "OrderedCollection",
+            },
+        }
+        if self.page_number != 1:
+            page_of_changes["prev"] = {
+                "id": f"{self.base_url}/activity/page-{self.page_number-1}",
+                "type": "OrderedCollectionPage",
+            }
+        if not self.is_last_page:
+            page_of_changes["next"] = {
+                "id": f"{self.base_url}/activity/page-{self.page_number+1}",
+                "type": "OrderedCollectionPage",
+            }
+        page_of_changes["orderedItems"] = self.get_activities()
+        return page_of_changes
+
+    def serialize(self):
+        with open(f"activity/page-{self.page_number}", "w") as page_activity:
+            json.dump(self.build, page_activity)
 
 
 class LevelZeroActivity:
@@ -38,15 +76,15 @@ class LevelZeroActivity:
 
     @staticmethod
     def __format_pid(pid):
-        return pid.replace(':', "/")
+        return pid.replace(":", "/")
 
     def build(self):
         return {
             "type": "Update",
             "object": {
                 "id": f"https://digital.lib.utk.edu/assemble/manifest/{self.__format_pid(self.pid)}",
-                "type": "Manifest"
-            }
+                "type": "Manifest",
+            },
         }
 
 
