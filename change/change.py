@@ -9,7 +9,7 @@ class Collection:
         self.items = items
         self.chunks = self.build_chunks()
         self.base = base_url
-        self.id = f"{base_url}/activity/all-changes"
+        self.id = f"{base_url}/activity/all-changes.json"
         self.last_page = self.__get_last_page()
 
     def __get_last_page(self):
@@ -23,14 +23,22 @@ class Collection:
             )
         ]
 
+    def __generate_collections_page(self):
+        with open(self.id.replace(f"{self.base}/", ''), "w") as collections_page:
+            json.dump(self.build(), collections_page, indent=4)
+        return
+
     def generate_pages(self):
         i = 1
         is_last_page = False
         for chunk in self.chunks:
             if i == self.last_page:
                 is_last_page = True
-            PageOfChanges(page_number=i, pids=chunk, base_url=self.base, is_last_page=is_last_page).serialize()
+            PageOfChanges(
+                page_number=i, pids=chunk, base_url=self.base, is_last_page=is_last_page
+            ).serialize()
             i += 1
+        self.__generate_collections_page()
         return
 
     def build(self):
@@ -40,11 +48,11 @@ class Collection:
             "type": "OrderedCollection",
             "totalItems": self.size,
             "first": {
-                "id": f"{self.base}/activity/page-1",
+                "id": f"{self.base}/activity/page-1.json",
                 "type": "OrderedCollectionPage",
             },
             "last": {
-                "id": f"{self.base}/activity/page-{self.last_page}",
+                "id": f"{self.base}/activity/page-{self.last_page}.json",
                 "type": "OrderedCollectionPage",
             },
         }
