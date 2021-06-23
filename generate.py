@@ -19,5 +19,5 @@ def get_all():
 
 
 if __name__ == "__main__":
-    x = Collection(get_all(), base_url="https://markpbaggett.github.io/change_discovery")
+    x = Collection(get_all(), base_url="https://utkdigitalinitiatives.github.io/change_discovery")
     all_chunks = x.generate_pages()
