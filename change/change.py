@@ -72,21 +72,21 @@ class PageOfChanges:
     def build(self):
         page_of_changes = {
             "@context": "http://iiif.io/api/discovery/1/context.json",
-            "id": f"{self.base_url}/activity/{self.page_number}",
+            "id": f"{self.base_url}/activity/page-{self.page_number}.json",
             "type": "OrderedCollectionPage",
             "partOf": {
-                "id": f"{self.base_url}/activity/all-changes",
+                "id": f"{self.base_url}/activity/all-changes.json",
                 "type": "OrderedCollection",
             },
         }
         if self.page_number != 1:
             page_of_changes["prev"] = {
-                "id": f"{self.base_url}/activity/page-{self.page_number-1}",
+                "id": f"{self.base_url}/activity/page-{self.page_number-1}.json",
                 "type": "OrderedCollectionPage",
             }
         if not self.is_last_page:
             page_of_changes["next"] = {
-                "id": f"{self.base_url}/activity/page-{self.page_number+1}",
+                "id": f"{self.base_url}/activity/page-{self.page_number+1}.json",
                 "type": "OrderedCollectionPage",
             }
         page_of_changes["orderedItems"] = self.get_activities()
@@ -113,8 +113,3 @@ class LevelZeroActivity:
                 "type": "Manifest",
             },
         }
-
-
-if __name__ == "__main__":
-    x = Collection([])
-    print(x.last_page)
