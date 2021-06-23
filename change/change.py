@@ -32,6 +32,24 @@ class Collection:
         return collection
 
 
+class LevelZeroActivity:
+    def __init__(self, pid):
+        self.pid = pid
+
+    @staticmethod
+    def __format_pid(pid):
+        return pid.replace(':', "/")
+
+    def build(self):
+        return {
+            "type": "Update",
+            "object": {
+                "id": f"https://digital.lib.utk.edu/assemble/manifest/{self.__format_pid(self.pid)}",
+                "type": "Manifest"
+            }
+        }
+
+
 if __name__ == "__main__":
     x = Collection([])
     print(x.last_page)
