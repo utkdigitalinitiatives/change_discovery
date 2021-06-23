@@ -1,0 +1,719 @@
+{
+    "@context": "http://iiif.io/api/discovery/1/context.json",
+    "id": "https://utkdigitalinitiatives.github.io/change_discovery/activity/page-26.json",
+    "type": "OrderedCollectionPage",
+    "partOf": {
+        "id": "https://utkdigitalinitiatives.github.io/change_discovery/activity/all-changes.json",
+        "type": "OrderedCollection"
+    },
+    "prev": {
+        "id": "https://utkdigitalinitiatives.github.io/change_discovery/activity/page-25.json",
+        "type": "OrderedCollectionPage"
+    },
+    "next": {
+        "id": "https://utkdigitalinitiatives.github.io/change_discovery/activity/page-27.json",
+        "type": "OrderedCollectionPage"
+    },
+    "orderedItems": [
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/volvoices/3094",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/derris/684",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/heilman/270",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/heilman/888",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/sanborn/1190",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/volvoices/3336",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/volvoices/2659",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/wcc/332",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/gamble/172",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/webster/1204",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/heilman/1189",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/heilman/302",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/heilman/537",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/heilman/1116",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/heilman/624",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/gamble/295",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/cDanielCartoon/518",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/volvoices/2063",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/volvoices/3736",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/cDanielCartoon/1098",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/cDanielCartoon/1012",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/kefauver/150412074",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/heilman/978",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/cDanielCartoon/1705",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/cDanielCartoon/1774",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/volvoices/2235",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/kefauver/150412054",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/webster/1465",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/cDanielCartoon/1811",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/bcpl/176",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/cDanielCartoon/952",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/kefauver/150412018",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/volvoices/1950",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/cDanielCartoon/1106",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/bcpl/126",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/volvoices/1928",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/sanborn/1222",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/scopes/114",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/cDanielCartoon/1273",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/cDanielCartoon/358",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/webster/1299",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/cDanielCartoon/314",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/volvoices/3478",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/cDanielCartoon/844",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/cDanielCartoon/894",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/scopes/175",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/scopes/170",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/volvoices/2203",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/heilman/1061",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/adams/91",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/cDanielCartoon/990",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/volvoices/3778",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/heilman/369",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/volvoices/3806",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/heilman/1230",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/volvoices/2870",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/volvoices/2872",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/adams/81",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/volvoices/3253",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/derris/729",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/derris/700",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/heilman/887",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/heilman/907",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/volvoices/3911",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/derris/648",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/webster/1449",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/cDanielCartoon/1520",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/wcc/334",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/sanborn/1255",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/volvoices/2275",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/webster/1351",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/volvoices/2639",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/webster/1230",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/volvoices/2880",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/volvoices/2657",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/volvoices/2176",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/volvoices/1956",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/volvoices/2262",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/heilman/396",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/mpabaker/961",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/cDanielCartoon/666",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/cDanielCartoon/1505",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/kefauver/150412106",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/100231/2",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/cDanielCartoon/1399",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/derris/712",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/volvoices/3038",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/derris/772",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/webster/1064",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/kefauver/150412082",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/derris/605",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/webster/1455",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/volvoices/2201",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/webster/1103",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/volvoices/2540",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/gamble/245",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/gamble/255",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/volvoices/2897",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/webster/1237",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/volvoices/2339",
+                "type": "Manifest"
+            }
+        }
+    ]
+}

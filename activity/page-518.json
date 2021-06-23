@@ -1,0 +1,719 @@
+{
+    "@context": "http://iiif.io/api/discovery/1/context.json",
+    "id": "https://utkdigitalinitiatives.github.io/change_discovery/activity/page-518.json",
+    "type": "OrderedCollectionPage",
+    "partOf": {
+        "id": "https://utkdigitalinitiatives.github.io/change_discovery/activity/all-changes.json",
+        "type": "OrderedCollection"
+    },
+    "prev": {
+        "id": "https://utkdigitalinitiatives.github.io/change_discovery/activity/page-517.json",
+        "type": "OrderedCollectionPage"
+    },
+    "next": {
+        "id": "https://utkdigitalinitiatives.github.io/change_discovery/activity/page-519.json",
+        "type": "OrderedCollectionPage"
+    },
+    "orderedItems": [
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/ramseyfp/950",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/ramseyfp/953",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/ramseyfp/955",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/ramseyfp/961",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/ramseyfp/966",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/ramseyfp/972",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/ramseyfp/976",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/ramseyfp/980",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/ramseyfp/983",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/ramseyfp/989",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/ramseyfp/997",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1001",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1003",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1007",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1009",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1014",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1017",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1020",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1023",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1027",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1030",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1033",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1036",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1039",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1042",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1046",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1049",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1052",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1054",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1059",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1064",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1067",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1070",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1073",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1076",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1079",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1082",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1085",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1088",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1093",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1097",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1103",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1108",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1113",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1118",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1121",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1127",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1132",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1137",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1140",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1144",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1147",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1150",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1156",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1161",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1166",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1171",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1176",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1181",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1186",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1189",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1193",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1198",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1204",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1207",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1210",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1213",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1216",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1219",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1222",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1224",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1226",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1232",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1237",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1243",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1246",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1250",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1256",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1259",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1262",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1266",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1269",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1274",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1280",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1288",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1292",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1300",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1306",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1314",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1320",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1328",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1338",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1342",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1346",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1352",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1357",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1365",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1370",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1376",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/1382",
+                "type": "Manifest"
+            }
+        }
+    ]
+}

@@ -1,0 +1,719 @@
+{
+    "@context": "http://iiif.io/api/discovery/1/context.json",
+    "id": "https://utkdigitalinitiatives.github.io/change_discovery/activity/page-480.json",
+    "type": "OrderedCollectionPage",
+    "partOf": {
+        "id": "https://utkdigitalinitiatives.github.io/change_discovery/activity/all-changes.json",
+        "type": "OrderedCollection"
+    },
+    "prev": {
+        "id": "https://utkdigitalinitiatives.github.io/change_discovery/activity/page-479.json",
+        "type": "OrderedCollectionPage"
+    },
+    "next": {
+        "id": "https://utkdigitalinitiatives.github.io/change_discovery/activity/page-481.json",
+        "type": "OrderedCollectionPage"
+    },
+    "orderedItems": [
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14065",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14073",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14081",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14089",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14097",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14105",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14113",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14121",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14129",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14137",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14145",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14153",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14161",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14169",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14177",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14185",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14193",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14201",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14209",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14217",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14225",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14233",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14241",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14249",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14257",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14265",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14273",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14281",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14289",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14297",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14305",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14313",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14321",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14329",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14337",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14345",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14353",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14361",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14369",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14377",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14385",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14393",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14401",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14409",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14417",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14425",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14433",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14441",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14449",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14457",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14465",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14473",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14481",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14489",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14497",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14505",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14513",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14521",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14529",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14537",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14545",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14553",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14561",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14569",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14577",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14585",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14593",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14601",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14609",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14617",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14625",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14633",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14641",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14649",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14657",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14665",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14673",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14681",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14689",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14697",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14705",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14713",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14721",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14729",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14737",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14745",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14753",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14761",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14769",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14777",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14785",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14793",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14801",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14809",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14817",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14825",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14833",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14841",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14849",
+                "type": "Manifest"
+            }
+        },
+        {
+            "type": "Update",
+            "object": {
+                "id": "https://digital.lib.utk.edu/assemble/manifest/agrtfn/14857",
+                "type": "Manifest"
+            }
+        }
+    ]
+}

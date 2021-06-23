@@ -1,0 +1,14 @@
+{
+    "@context": "http://iiif.io/api/discovery/1/context.json",
+    "id": "https://utkdigitalinitiatives.github.io/change_discovery/activity/all-changes.json",
+    "type": "OrderedCollection",
+    "totalItems": 54229,
+    "first": {
+        "id": "https://utkdigitalinitiatives.github.io/change_discovery/activity/page-1.json",
+        "type": "OrderedCollectionPage"
+    },
+    "last": {
+        "id": "https://utkdigitalinitiatives.github.io/change_discovery/activity/page-543.json",
+        "type": "OrderedCollectionPage"
+    }
+}
