@@ -47,6 +47,7 @@ class Collection:
             "id": self.id,
             "type": "OrderedCollection",
             "totalItems": self.size,
+            "rights": "https://creativecommons.org/publicdomain/zero/1.0/",
             "first": {
                 "id": f"{self.base}/activity/page-1.json",
                 "type": "OrderedCollectionPage",
