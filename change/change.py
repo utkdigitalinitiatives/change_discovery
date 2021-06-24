@@ -112,10 +112,10 @@ class LevelZeroActivity:
             "object": {
                 "id": f"https://digital.lib.utk.edu/assemble/manifest/{self.__format_pid(self.pid)}",
                 "type": "Manifest",
-                "canonical": f"https://digital.lib.utk.edu.edu/collections/islandora/object/{self.pid}",
+                "canonical": f"https://digital.lib.utk.edu/collections/islandora/object/{self.pid}",
                 "seeAlso": [
                     {
-                        "id": f"https://digital.lib.utk.edu.edu/collections/islandora/object/{self.pid}/datastream/MODS",
+                        "id": f"https://digital.lib.utk.edu/collections/islandora/object/{self.pid}/datastream/MODS",
                         "type": "Dataset",
                         "format": "application/xml",
                         "label": {"en": ["Bibliographic Description in MODS"]},
