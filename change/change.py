@@ -24,7 +24,7 @@ class Collection:
         ]
 
     def __generate_collections_page(self):
-        with open(self.id.replace(f"{self.base}/", ''), "w") as collections_page:
+        with open(self.id.replace(f"{self.base}/", ""), "w") as collections_page:
             json.dump(self.build(), collections_page, indent=4)
         return
 
@@ -112,5 +112,15 @@ class LevelZeroActivity:
             "object": {
                 "id": f"https://digital.lib.utk.edu/assemble/manifest/{self.__format_pid(self.pid)}",
                 "type": "Manifest",
+                "canonical": f"https://digital.lib.utk.edu.edu/collections/islandora/object/{self.pid}",
+                "seeAlso": [
+                    {
+                        "id": f"https://digital.lib.utk.edu.edu/collections/islandora/object/{self.pid}/datastream/MODS",
+                        "type": "Dataset",
+                        "format": "application/xml",
+                        "label": {"en": ["Bibliographic Description in MODS"]},
+                        "profile": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                    }
+                ],
             },
         }
